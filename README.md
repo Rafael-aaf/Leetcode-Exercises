@@ -16,3 +16,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |10|Remove Element|Easy|[Solution](https://leetcode.com/problems/remove-element/solutions/7125010/remove-element-beats-100-by-rafa_f-sic3/)|
 |11|Single Number|Easy|[Solution](https://leetcode.com/problems/single-number/solutions/7125017/single-number-by-rafa_f-yh1i/)|
 |12|First Unique Character in a String|Easy|[Solution](https://leetcode.com/problems/first-unique-character-in-a-string/solutions/7124958/first-unique-character-in-a-string-by-ra-bb19/)|
+|13|Maximum Area of Longest Diagonal Rectangle|Easy|[Solution](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/solutions/7125533/maximum-area-of-longest-diagonal-rectang-i9uh/)
