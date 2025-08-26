@@ -1,6 +1,6 @@
 # Leetcode-Exercises
 
-I'll add all the problems that I've solved on Leetcode here! The numbers only represent the order that I solved these problems! My username is Rafa_F.
+I'll add all the problems that I've solved on Leetcode here! The numbers only represent the order that I solved these problems! My username is [Rafa_F](https://leetcode.com/u/Rafa_F/).
 
 |#|Title|Difficulty|Solution|
 |---|---|---|---|
