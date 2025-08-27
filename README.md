@@ -18,3 +18,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |12|First Unique Character in a String|Easy|[Solution](https://leetcode.com/problems/first-unique-character-in-a-string/solutions/7124958/first-unique-character-in-a-string-by-ra-bb19/)|
 |13|Maximum Area of Longest Diagonal Rectangle|Easy|[Solution](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/solutions/7125533/maximum-area-of-longest-diagonal-rectang-i9uh/)
 |14|Sqrt(x)|Easy|[Solution](https://leetcode.com/problems/sqrtx/solutions/7125754/sqrtx-beats-100-by-rafa_f-j8za/)|
+|15|Power Of Two|Easy|[Solution](https://leetcode.com/problems/power-of-two/solutions/7126359/power-of-two-beats-100-by-rafa_f-xcsa/)
