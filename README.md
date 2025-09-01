@@ -22,4 +22,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |16|Contains Duplicate|Easy|[Solution](https://leetcode.com/problems/contains-duplicate/solutions/7136219/contains-duplicate-beats-82-by-rafa_f-so5c/)|
 |17|Move Zeroes|Easy|[Solution](https://leetcode.com/problems/move-zeroes/solutions/7145024/move-zeroes-by-rafa_f-23gn/)|
 |18|Intersection of Two Arrays|Easy|[Solution](https://leetcode.com/problems/intersection-of-two-arrays/solutions/7145061/intersection-of-two-arrays-beats-100-by-38juj/)
-
+|19|Third Maximum Number|Easy|[Solution](https://leetcode.com/problems/third-maximum-number/solutions/7145085/third-maximum-number-by-rafa_f-dxmm/)
