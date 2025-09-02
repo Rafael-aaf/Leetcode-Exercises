@@ -24,3 +24,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |18|Intersection of Two Arrays|Easy|[Solution](https://leetcode.com/problems/intersection-of-two-arrays/solutions/7145061/intersection-of-two-arrays-beats-100-by-38juj/)
 |19|Third Maximum Number|Easy|[Solution](https://leetcode.com/problems/third-maximum-number/solutions/7145085/third-maximum-number-by-rafa_f-dxmm/)
 |20|Height Checker|Easy|[Solution](https://leetcode.com/problems/height-checker/solutions/7145138/height-checker-beats-100-by-rafa_f-ypho/)
+|21|How Many Numbers Are Smaller Than the Current Number|Easy|[Solution](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/7148177/how-many-numbers-are-smaller-than-the-cu-ds92/)
