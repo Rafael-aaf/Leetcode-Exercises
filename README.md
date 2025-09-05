@@ -26,3 +26,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |20|Height Checker|Easy|[Solution](https://leetcode.com/problems/height-checker/solutions/7145138/height-checker-beats-100-by-rafa_f-ypho/)
 |21|How Many Numbers Are Smaller Than the Current Number|Easy|[Solution](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/7148177/how-many-numbers-are-smaller-than-the-cu-ds92/)
 |22|Find Closest Person|Easy|[Solution](https://leetcode.com/problems/find-closest-person/solutions/7155786/find-closest-person-beats-100-by-rafa_f-nbcg/)|
+|23|Palindrome Number|Easy|[Solution](https://leetcode.com/problems/palindrome-number/solutions/7159304/palindrome-number-by-rafa_f-jz4f/)|
