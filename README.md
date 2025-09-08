@@ -29,3 +29,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |23|Palindrome Number|Easy|[Solution](https://leetcode.com/problems/palindrome-number/solutions/7159304/palindrome-number-by-rafa_f-jz4f/)|
 |24|Find All Duplicates in an Array|Medium|[Solution](https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/7159495/find-all-duplicates-in-an-array-by-rafa_-9k2t/)
 |25|Roman to Integer|Easy|[Solution](https://leetcode.com/problems/roman-to-integer/solutions/7161617/roman-to-integer-by-rafa_f-liwh/)
+|26|Convert Integer to the Sum of Two No-Zero Integers|Easy|[Solution](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/solutions/7170088/convert-integer-to-the-sum-of-two-no-zer-uhws/)|
