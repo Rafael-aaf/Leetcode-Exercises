@@ -32,3 +32,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |26|Convert Integer to the Sum of Two No-Zero Integers|Easy|[Solution](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/solutions/7170088/convert-integer-to-the-sum-of-two-no-zer-uhws/)|
 |27|Sort Vowels in a String|Medium|[Solution](https://leetcode.com/problems/sort-vowels-in-a-string/solutions/7179347/sort-vowels-in-a-string-by-rafa_f-zmzv/)|
 |28|Vowels Game in a String|Medium|[Solution](https://leetcode.com/problems/vowels-game-in-a-string/solutions/7182624/vowels-game-in-a-string-by-rafa_f-mknm/)⭐|
+|29|Divisor Game|Easy|[Solution](https://leetcode.com/problems/divisor-game/solutions/7182670/divisor-game-beats-100-by-rafa_f-h0vq/)|
