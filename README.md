@@ -28,9 +28,11 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |22|Find Closest Person|Easy|[Solution](https://leetcode.com/problems/find-closest-person/solutions/7155786/find-closest-person-beats-100-by-rafa_f-nbcg/)|
 |23|Palindrome Number|Easy|[Solution](https://leetcode.com/problems/palindrome-number/solutions/7159304/palindrome-number-by-rafa_f-jz4f/)|
 |24|Find All Duplicates in an Array|Medium|[Solution](https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/7159495/find-all-duplicates-in-an-array-by-rafa_-9k2t/)
-|25|Roman to Integer|Easy|[Solution](https://leetcode.com/problems/roman-to-integer/solutions/7161617/roman-to-integer-by-rafa_f-liwh/)
+|25|Roman to Integer|Easy|[Solution](https://leetcode.com/problems/roman-to-integer/solutions/7161617/roman-to-integer-by-rafa_f-liwh/)|
 |26|Convert Integer to the Sum of Two No-Zero Integers|Easy|[Solution](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/solutions/7170088/convert-integer-to-the-sum-of-two-no-zer-uhws/)|
 |27|Sort Vowels in a String|Medium|[Solution](https://leetcode.com/problems/sort-vowels-in-a-string/solutions/7179347/sort-vowels-in-a-string-by-rafa_f-zmzv/)|
 |28|Vowels Game in a String|Medium|[Solution](https://leetcode.com/problems/vowels-game-in-a-string/solutions/7182624/vowels-game-in-a-string-by-rafa_f-mknm/)⭐|
 |29|Divisor Game|Easy|[Solution](https://leetcode.com/problems/divisor-game/solutions/7182670/divisor-game-beats-100-by-rafa_f-h0vq/)|
 |30|Find N Unique Integers Sum up to Zero|Easy|[Solution](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/solutions/7183344/1304-find-n-unique-integers-sum-up-to-ze-bonm/)|
+|31|Find Most Frequent Vowel and Consonant|Easy|[Solution](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7186899/find-most-frequent-vowel-and-consonant-b-sfe9/)|
+|32|Add Binary|Easy|[Solution](https://leetcode.com/problems/add-binary/solutions/7187761/add-binary-c-by-rafa_f-4cks/)⭐|
