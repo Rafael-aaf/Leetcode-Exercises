@@ -37,3 +37,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |31|Find Most Frequent Vowel and Consonant|Easy|[Solution](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7186899/find-most-frequent-vowel-and-consonant-b-sfe9/)|
 |32|Add Binary|Easy|[Solution](https://leetcode.com/problems/add-binary/solutions/7187761/add-binary-c-by-rafa_f-4cks/)⭐|
 |33|Maximum Number of Words You Can Type|Easy|[Solution](https://leetcode.com/problems/maximum-number-of-words-you-can-type/solutions/7190849/maximum-number-of-words-you-can-type-by-lt55l/)|
+|34|Pow(x, n)|Medium|[Solution](https://leetcode.com/problems/powx-n/solutions/7193238/powx-n-by-rafa_f-kazl/)|
