@@ -40,3 +40,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |34|Pow(x, n)|Medium|[Solution](https://leetcode.com/problems/powx-n/solutions/7193238/powx-n-by-rafa_f-kazl/)|
 |35|Maximum Product of Three Numbers|Easy|[Solution](https://leetcode.com/problems/maximum-product-of-three-numbers/solutions/7197364/maximum-product-of-three-numbers-by-rafa-olgn/)|
 |36|Reverse Linked List|Easy|[Solution](https://leetcode.com/problems/reverse-linked-list/solutions/7199849/reverse-linked-list-c-beats-100-by-rafa_-hhje/)⭐|
+|37|Remove Linked List Elements|Easy|[Solution](https://leetcode.com/problems/remove-linked-list-elements/solutions/7202406/remove-linked-list-elements-c-beats-100-m9wgi/)|
