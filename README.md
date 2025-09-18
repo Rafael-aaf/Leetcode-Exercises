@@ -42,3 +42,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |36|Reverse Linked List|Easy|[Solution](https://leetcode.com/problems/reverse-linked-list/solutions/7199849/reverse-linked-list-c-beats-100-by-rafa_-hhje/)⭐|
 |37|Remove Linked List Elements|Easy|[Solution](https://leetcode.com/problems/remove-linked-list-elements/solutions/7202406/remove-linked-list-elements-c-beats-100-m9wgi/)|
 |38|Middle of the Linked List|Easy|[Solution](https://leetcode.com/problems/middle-of-the-linked-list/solutions/7202479/middle-of-the-linked-list-beats-100-by-r-8zer/)|
+|39|Delete the Middle Node of a Linked List|Medium|[Solution](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/solutions/7202567/delete-the-middle-node-of-a-linked-list-3iekh/)|
