@@ -46,3 +46,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |40|Length of Last Word|Easy|[Solution](https://leetcode.com/problems/length-of-last-word/solutions/7202872/length-of-last-word-beats-100-by-rafa_f-nyqu/)|
 |41|Power of Three|Easy|[Solution](https://leetcode.com/problems/power-of-three/solutions/7205536/power-of-three-by-rafa_f-duca/)|
 |42|Search in a Binary Search Tree|Easy|[Solution](https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/7205814/search-in-a-binary-search-tree-by-rafa_f-xvca/)|
+|43|Recyclable and Low Fat Products|Easy|[Solution](https://leetcode.com/problems/recyclable-and-low-fat-products/solutions/7206201/recyclable-and-low-fat-products-by-rafa_-r0zi/)|
