@@ -44,3 +44,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |38|Middle of the Linked List|Easy|[Solution](https://leetcode.com/problems/middle-of-the-linked-list/solutions/7202479/middle-of-the-linked-list-beats-100-by-r-8zer/)|
 |39|Delete the Middle Node of a Linked List|Medium|[Solution](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/solutions/7202567/delete-the-middle-node-of-a-linked-list-3iekh/)|
 |40|Length of Last Word|Easy|[Solution](https://leetcode.com/problems/length-of-last-word/solutions/7202872/length-of-last-word-beats-100-by-rafa_f-nyqu/)|
+|41|Power of Three|Easy|[Solution](https://leetcode.com/problems/power-of-three/solutions/7205536/power-of-three-by-rafa_f-duca/)|
