@@ -48,3 +48,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |42|Search in a Binary Search Tree|Easy|[Solution](https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/7205814/search-in-a-binary-search-tree-by-rafa_f-xvca/)|
 |43|Recyclable and Low Fat Products|Easy|[Solution](https://leetcode.com/problems/recyclable-and-low-fat-products/solutions/7206201/recyclable-and-low-fat-products-by-rafa_-r0zi/)|
 |44|Find Words Containing Character|Easy|[Solution](https://leetcode.com/problems/find-words-containing-character/solutions/7209430/find-words-containing-character-by-rafa_-7u5c/)|
+|45|Shuffle the Array|Easy|[Solution](https://leetcode.com/problems/shuffle-the-array/solutions/7209437/shuffle-the-array-by-rafa_f-v465/)|
