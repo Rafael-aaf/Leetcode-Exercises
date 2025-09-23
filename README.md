@@ -52,3 +52,6 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |46|Design Parking System|Easy|[Solution](https://leetcode.com/problems/design-parking-system/solutions/7209517/design-parking-system-by-rafa_f-v0oi/)|
 |47|Count Elements With Maximum Frequency|Easy|[Solution](https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7215600/count-elements-with-maximum-frequency-be-eidb/)|
 |48|Compare Version Numbers|Medium|[Solution](https://leetcode.com/problems/compare-version-numbers/solutions/7215638/compare-version-numbers-beats-100-by-raf-1ha5/)|
+|49|Root Equals Sum of Children|Easy|[Solution](https://leetcode.com/problems/root-equals-sum-of-children/solutions/7217095/root-equals-sum-of-children-beats-100-by-ykl4/)|
+|50|Jewels and Stones|Easy|[Solution](https://leetcode.com/problems/jewels-and-stones/solutions/7217102/jewels-and-stones-beats-100-by-rafa_f-2mho/)|
+|51|Arranging Coins|Easy|[Solution](https://leetcode.com/problems/arranging-coins/solutions/7217169/arranging-coins-by-rafa_f-jnmq/)|
