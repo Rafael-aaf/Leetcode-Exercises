@@ -50,3 +50,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |44|Find Words Containing Character|Easy|[Solution](https://leetcode.com/problems/find-words-containing-character/solutions/7209430/find-words-containing-character-by-rafa_-7u5c/)|
 |45|Shuffle the Array|Easy|[Solution](https://leetcode.com/problems/shuffle-the-array/solutions/7209437/shuffle-the-array-by-rafa_f-v465/)|
 |46|Design Parking System|Easy|[Solution](https://leetcode.com/problems/design-parking-system/solutions/7209517/design-parking-system-by-rafa_f-v0oi/)|
+|47|Count Elements With Maximum Frequency|Easy|[Solution](https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7215600/count-elements-with-maximum-frequency-be-eidb/)|
