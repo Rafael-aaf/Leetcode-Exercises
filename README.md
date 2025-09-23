@@ -51,3 +51,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |45|Shuffle the Array|Easy|[Solution](https://leetcode.com/problems/shuffle-the-array/solutions/7209437/shuffle-the-array-by-rafa_f-v465/)|
 |46|Design Parking System|Easy|[Solution](https://leetcode.com/problems/design-parking-system/solutions/7209517/design-parking-system-by-rafa_f-v0oi/)|
 |47|Count Elements With Maximum Frequency|Easy|[Solution](https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7215600/count-elements-with-maximum-frequency-be-eidb/)|
+|48|Compare Version Numbers|Medium|[Solution](https://leetcode.com/problems/compare-version-numbers/solutions/7215638/compare-version-numbers-beats-100-by-raf-1ha5/)|
