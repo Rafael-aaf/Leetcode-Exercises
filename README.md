@@ -55,3 +55,5 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |49|Root Equals Sum of Children|Easy|[Solution](https://leetcode.com/problems/root-equals-sum-of-children/solutions/7217095/root-equals-sum-of-children-beats-100-by-ykl4/)|
 |50|Jewels and Stones|Easy|[Solution](https://leetcode.com/problems/jewels-and-stones/solutions/7217102/jewels-and-stones-beats-100-by-rafa_f-2mho/)|
 |51|Arranging Coins|Easy|[Solution](https://leetcode.com/problems/arranging-coins/solutions/7217169/arranging-coins-by-rafa_f-jnmq/)|
+|52|Smallest Even Multiple|Easy|[Solution](https://leetcode.com/problems/smallest-even-multiple/solutions/7218630/smallest-even-multiple-beats-100-by-rafa-ouwx/)|
+|53|Kids With the Greatest Number of Candies|Easy|[Solution](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7218634/kids-with-the-greatest-number-of-candies-c4tg/)|
