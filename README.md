@@ -57,3 +57,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |51|Arranging Coins|Easy|[Solution](https://leetcode.com/problems/arranging-coins/solutions/7217169/arranging-coins-by-rafa_f-jnmq/)|
 |52|Smallest Even Multiple|Easy|[Solution](https://leetcode.com/problems/smallest-even-multiple/solutions/7218630/smallest-even-multiple-beats-100-by-rafa-ouwx/)|
 |53|Kids With the Greatest Number of Candies|Easy|[Solution](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7218634/kids-with-the-greatest-number-of-candies-c4tg/)|
+|54|Convert the Temperature|Easy|[Solution](https://leetcode.com/problems/convert-the-temperature/solutions/7220791/convert-the-temperature-beats-100-by-raf-ww40/)|
