@@ -59,3 +59,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |53|Kids With the Greatest Number of Candies|Easy|[Solution](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7218634/kids-with-the-greatest-number-of-candies-c4tg/)|
 |54|Convert the Temperature|Easy|[Solution](https://leetcode.com/problems/convert-the-temperature/solutions/7220791/convert-the-temperature-beats-100-by-raf-ww40/)|
 |55|Maximum Number of Words Found in Sentences|Easy|[Solution](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/7223680/maximum-number-of-words-found-in-sentenc-cij7/)|
+|56|Minimum Absolute Difference|Easy|[Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/7225749/minimum-absolute-difference-memory-beats-x45v/)⭐|
