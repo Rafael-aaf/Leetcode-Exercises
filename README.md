@@ -62,3 +62,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |56|Minimum Absolute Difference|Easy|[Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/7225749/minimum-absolute-difference-memory-beats-x45v/)⭐|
 |57|The kth Factor of n|Medium|[Solution](https://leetcode.com/problems/the-kth-factor-of-n/solutions/7225853/the-kth-factor-of-n-beats-100-by-rafa_f-sunc/)⭐|
 |58|Fizz Buzz|Easy|[Solution](https://leetcode.com/problems/fizz-buzz/solutions/7226368/fizz-buzz-by-rafa_f-5iae/)|
+|59|Divide Players Into Teams of Equal Skill|Medium|[Solution](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/solutions/7226510/divide-players-into-teams-of-equal-skill-e9ju/)⭐|
