@@ -60,3 +60,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |54|Convert the Temperature|Easy|[Solution](https://leetcode.com/problems/convert-the-temperature/solutions/7220791/convert-the-temperature-beats-100-by-raf-ww40/)|
 |55|Maximum Number of Words Found in Sentences|Easy|[Solution](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/solutions/7223680/maximum-number-of-words-found-in-sentenc-cij7/)|
 |56|Minimum Absolute Difference|Easy|[Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/7225749/minimum-absolute-difference-memory-beats-x45v/)⭐|
+|57|The kth Factor of n|Medium|[Solution](https://leetcode.com/problems/the-kth-factor-of-n/solutions/7225853/the-kth-factor-of-n-beats-100-by-rafa_f-sunc/)⭐|
