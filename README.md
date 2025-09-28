@@ -64,3 +64,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |58|Fizz Buzz|Easy|[Solution](https://leetcode.com/problems/fizz-buzz/solutions/7226368/fizz-buzz-by-rafa_f-5iae/)|
 |59|Divide Players Into Teams of Equal Skill|Medium|[Solution](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/solutions/7226510/divide-players-into-teams-of-equal-skill-e9ju/)⭐|
 |60|Sort Colors|Medium|[Solution](https://leetcode.com/problems/sort-colors/solutions/7229530/sort-colors-beats-100-by-rafa_f-83ih/)|
+|61|Longest Consecutive Sequence|Medium|[Solution](https://leetcode.com/problems/longest-consecutive-sequence/solutions/7229713/longest-consecutive-sequence-by-rafa_f-ue26/)|
