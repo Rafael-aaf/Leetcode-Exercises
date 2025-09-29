@@ -67,3 +67,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |61|Longest Consecutive Sequence|Medium|[Solution](https://leetcode.com/problems/longest-consecutive-sequence/solutions/7229713/longest-consecutive-sequence-by-rafa_f-ue26/)|
 |62|Top K Frequent Elements|Medium|[Solution](https://leetcode.com/problems/top-k-frequent-elements/solutions/7232133/top-k-frequent-elements-by-rafa_f-ubx2/)|
 |63|Reverse Only Letters|Easy|[Solution](https://leetcode.com/problems/reverse-only-letters/solutions/7232206/reverse-only-letters-beats-100-by-rafa_f-hfut/)|
+|64|Minimum Suffix Flips|Medium|[Solution](https://leetcode.com/problems/minimum-suffix-flips/solutions/7232511/minimum-suffix-flips-by-rafa_f-xwwk/)|
