@@ -70,3 +70,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |64|Minimum Suffix Flips|Medium|[Solution](https://leetcode.com/problems/minimum-suffix-flips/solutions/7232511/minimum-suffix-flips-by-rafa_f-xwwk/)⭐|
 |65|Binary Search|Easy|[Solution](https://leetcode.com/problems/binary-search/solutions/7234572/binary-search-by-rafa_f-hz6c/)|
 |66|First Bad Version|Easy|[Solution](https://leetcode.com/problems/first-bad-version/solutions/7237083/first-bad-version-by-rafa_f-6pst/)|
+|67|Water Bottles|Easy|[Solution](https://leetcode.com/problems/water-bottles/solutions/7240177/water-bottles-beats-100-by-rafa_f-0ips/)|
