@@ -72,3 +72,5 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |66|First Bad Version|Easy|[Solution](https://leetcode.com/problems/first-bad-version/solutions/7237083/first-bad-version-by-rafa_f-6pst/)|
 |67|Water Bottles|Easy|[Solution](https://leetcode.com/problems/water-bottles/solutions/7240177/water-bottles-beats-100-by-rafa_f-0ips/)|
 |68|Binary Tree Preorder Traversal|Easy|[Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/7243149/binary-tree-preorder-traversal-by-rafa_f-imim/)|
+|69|Binary Tree Postorder Traversal|Easy|[Solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solutions/7245776/binary-tree-postorder-traversal-beats-10-bmr1/)|
+|70|Binary Tree Inorder Traversal|Easy|[Solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/7245791/binary-tree-inorder-traversal-beats-100-8w3ar/)|
