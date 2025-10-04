@@ -74,3 +74,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |68|Binary Tree Preorder Traversal|Easy|[Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/7243149/binary-tree-preorder-traversal-by-rafa_f-imim/)|
 |69|Binary Tree Postorder Traversal|Easy|[Solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solutions/7245776/binary-tree-postorder-traversal-beats-10-bmr1/)|
 |70|Binary Tree Inorder Traversal|Easy|[Solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/7245791/binary-tree-inorder-traversal-beats-100-8w3ar/)|
+|71|Maximum Average Subarray I|Easy|[Solution](https://leetcode.com/problems/maximum-average-subarray-i/solutions/7249056/maximum-average-subarray-i-by-rafa_f-dv21/)|
