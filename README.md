@@ -76,3 +76,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |70|Binary Tree Inorder Traversal|Easy|[Solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/7245791/binary-tree-inorder-traversal-beats-100-8w3ar/)|
 |71|Maximum Average Subarray I|Easy|[Solution](https://leetcode.com/problems/maximum-average-subarray-i/solutions/7249056/maximum-average-subarray-i-by-rafa_f-dv21/)|
 |72|Container With Most Water|Medium|[Solution](https://leetcode.com/problems/container-with-most-water/solutions/7249245/container-with-most-water-by-rafa_f-tn3b/)|
+|73|Longest Substring Without Repeating Characters|Medium|[Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/7251251/longest-substring-without-repeating-char-mbv7/)|
