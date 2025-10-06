@@ -82,3 +82,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |76|Substrings Of Size Three With Distinct Characters|Easy|[Solution](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/solutions/7252158/substrings-of-size-three-with-distinct-c-u4m3/)|
 |77|Longest Palindromic Substring|Medium|[Solution](https://leetcode.com/problems/longest-palindromic-substring/solutions/7253594/longest-palindromic-substring-by-rafa_f-mgzo/)|
 |78|Maximum Subarray|Medium|[Solution](https://leetcode.com/problems/maximum-subarray/solutions/7253732/maximum-subarray-by-rafa_f-rf4r/)|
+|79|Best Time to Buy And Sell Stock|Easy|[Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/7254375/best-time-to-buy-and-sell-stock-by-rafa_-c847/)|
