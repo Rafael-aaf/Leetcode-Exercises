@@ -83,3 +83,5 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |77|Longest Palindromic Substring|Medium|[Solution](https://leetcode.com/problems/longest-palindromic-substring/solutions/7253594/longest-palindromic-substring-by-rafa_f-mgzo/)|
 |78|Maximum Subarray|Medium|[Solution](https://leetcode.com/problems/maximum-subarray/solutions/7253732/maximum-subarray-by-rafa_f-rf4r/)|
 |79|Best Time to Buy And Sell Stock|Easy|[Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/7254375/best-time-to-buy-and-sell-stock-by-rafa_-c847/)|
+|80|Merge Two Sorted Lists - Beats 100%|Easy|[Solution](https://leetcode.com/problems/merge-two-sorted-lists/solutions/7254865/merge-two-sorted-lists-beats-100-by-rafa-5f4y/)|
+|81|Successful Pairs Of Spells And Potions|Medium|[Solution](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/solutions/7259106/successful-pairs-of-spells-and-potions-b-i7hz/)|
