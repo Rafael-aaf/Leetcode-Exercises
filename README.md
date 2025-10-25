@@ -86,3 +86,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |80|Merge Two Sorted Lists - Beats 100%|Easy|[Solution](https://leetcode.com/problems/merge-two-sorted-lists/solutions/7254865/merge-two-sorted-lists-beats-100-by-rafa-5f4y/)|
 |81|Successful Pairs Of Spells And Potions|Medium|[Solution](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/solutions/7259106/successful-pairs-of-spells-and-potions-b-i7hz/)|
 |82|Distribute Candies|Easy|[Solution](https://leetcode.com/problems/distribute-candies/solutions/7265087/distribute-candies-by-rafa_f-auv8/)|
+|83|Calculate Money in Leetcode Bank|Easy|[Solution](https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299847/calculate-money-in-leetcode-bank-by-rafa-6uyl/)|
