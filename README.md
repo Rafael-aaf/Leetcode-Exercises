@@ -88,4 +88,5 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |82|Distribute Candies|Easy|[Solution](https://leetcode.com/problems/distribute-candies/solutions/7265087/distribute-candies-by-rafa_f-auv8/)|
 |83|Calculate Money in Leetcode Bank|Easy|[Solution](https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299847/calculate-money-in-leetcode-bank-by-rafa-6uyl/)|
 |84|Set Matrix Zeroes|Medium|[Solution](https://leetcode.com/problems/set-matrix-zeroes/solutions/7376318/set-matrix-zeroes-by-rafa_f-4a4k/)|
-|85|String Compression|Medium|[Solution](https://leetcode.com/problems/string-compression/solutions/7377692/string-compression-by-rafa_f-7wch/)|
+|85|String Compression|Medium|[Solution](https://leetcode.com/problems/string-compression/solutions/7377692/string-compression-by-rafa_f-7wch/)⭐|
+|86|Find Mode in Binary Search Tree|Easy|[Solution](https://leetcode.com/problems/find-mode-in-binary-search-tree/solutions/7387608/find-mode-in-binary-search-tree-by-rafa_-320v/)⭐|
