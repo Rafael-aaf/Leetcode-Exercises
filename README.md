@@ -90,3 +90,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |84|Set Matrix Zeroes|Medium|[Solution](https://leetcode.com/problems/set-matrix-zeroes/solutions/7376318/set-matrix-zeroes-by-rafa_f-4a4k/)|
 |85|String Compression|Medium|[Solution](https://leetcode.com/problems/string-compression/solutions/7377692/string-compression-by-rafa_f-7wch/)⭐|
 |86|Find Mode in Binary Search Tree|Easy|[Solution](https://leetcode.com/problems/find-mode-in-binary-search-tree/solutions/7387608/find-mode-in-binary-search-tree-by-rafa_-320v/)⭐|
+|87|Search a 2D Matrix|Medium|[Solution][https://leetcode.com/problems/search-a-2d-matrix/solutions/7400403/search-a-2d-matrix-by-rafa_f-f3yw/]|
