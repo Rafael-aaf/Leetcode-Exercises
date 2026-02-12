@@ -93,3 +93,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |87|Search a 2D Matrix|Medium|[Solution](https://leetcode.com/problems/search-a-2d-matrix/solutions/7400403/search-a-2d-matrix-by-rafa_f-f3yw/)|
 |88|Valid Parentheses|Easy|[Solution](https://leetcode.com/problems/valid-parentheses/solutions/7401251/valid-parentheses-by-rafa_f-vv8w/)|
 |89|Longest Common Prefix|Easy|[Solution](https://leetcode.com/problems/longest-common-prefix/solutions/7453488/longest-common-prefix-by-rafa_f-1i6f/)|
+|90|Reverse String|Easy|[Solution](https://leetcode.com/problems/reverse-string/solutions/7574212/reverse-string-by-rafa_f-ex49/)|
