@@ -97,3 +97,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |91|Reverse Words in a String III|Easy|[Solution](https://leetcode.com/problems/reverse-words-in-a-string-iii/solutions/7574266/reverse-words-in-a-string-iii-by-rafa_f-ttxv/)|
 |92|Reverse String II|Easy|[Solution](https://leetcode.com/problems/reverse-string-ii/solutions/7574316/reverse-string-ii-beats-100-by-rafa_f-89mh/)|
 |93|Find Smallest Letter Greater Than Target|Easy|[Solution](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/7574773/find-smallest-letter-greater-than-target-opy6/)|
+|94|Find Common Characters|Easy|[Solution](https://leetcode.com/problems/find-common-characters/solutions/7576468/find-common-characters-by-rafa_f-ir3a/)|
