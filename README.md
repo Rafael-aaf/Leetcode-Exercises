@@ -98,3 +98,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |92|Reverse String II|Easy|[Solution](https://leetcode.com/problems/reverse-string-ii/solutions/7574316/reverse-string-ii-beats-100-by-rafa_f-89mh/)|
 |93|Find Smallest Letter Greater Than Target|Easy|[Solution](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/7574773/find-smallest-letter-greater-than-target-opy6/)|
 |94|Find Common Characters|Easy|[Solution](https://leetcode.com/problems/find-common-characters/solutions/7576468/find-common-characters-by-rafa_f-ir3a/)|
+|95|Repeated DNA Sequences|Medium|[Solution](https://leetcode.com/problems/repeated-dna-sequences/solutions/7576931/repeated-dna-sequences-by-rafa_f-r66n/)|
