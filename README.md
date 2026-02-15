@@ -101,3 +101,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |95|Repeated DNA Sequences|Medium|[Solution](https://leetcode.com/problems/repeated-dna-sequences/solutions/7576931/repeated-dna-sequences-by-rafa_f-r66n/)|
 |96|Group Anagrams|Medium|[Solution](https://leetcode.com/problems/group-anagrams/solutions/7579497/group-anagrams-memory-beats-97-by-rafa_f-7mle/)|
 |97|Kth Largest Element in an Array|Medium|[Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/7579868/kth-largest-element-in-an-array-by-rafa_-ryhc/)|
+|98|First Missing Positive|Hard|[Solution](https://leetcode.com/problems/first-missing-positive/solutions/7580626/first-missing-positive-memory-beats-99-b-dpgf/)|
