@@ -102,3 +102,4 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |96|Group Anagrams|Medium|[Solution](https://leetcode.com/problems/group-anagrams/solutions/7579497/group-anagrams-memory-beats-97-by-rafa_f-7mle/)|
 |97|Kth Largest Element in an Array|Medium|[Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/7579868/kth-largest-element-in-an-array-by-rafa_-ryhc/)|
 |98|First Missing Positive|Hard|[Solution](https://leetcode.com/problems/first-missing-positive/solutions/7580626/first-missing-positive-memory-beats-99-b-dpgf/)⭐|
+|99|Sort Characters By Frequency|Medium|[Solution](https://leetcode.com/problems/sort-characters-by-frequency/solutions/7582497/sort-characters-by-frequency-by-rafa_f-42s0/)|
