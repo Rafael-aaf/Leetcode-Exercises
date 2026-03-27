@@ -104,3 +104,6 @@ I'll add all the problems that I've solved on Leetcode here! The numbers only re
 |98|First Missing Positive|Hard|[Solution](https://leetcode.com/problems/first-missing-positive/solutions/7580626/first-missing-positive-memory-beats-99-b-dpgf/)⭐|
 |99|Sort Characters By Frequency|Medium|[Solution](https://leetcode.com/problems/sort-characters-by-frequency/solutions/7582497/sort-characters-by-frequency-by-rafa_f-42s0/)|
 |100|Trapping Rain Water|Hard|[Solution](https://leetcode.com/problems/trapping-rain-water/solutions/7584186/trapping-rain-water-by-rafa_f-v40k/)|
+|101|Employees Earning More Than Their Managers|Easy|[Solution](https://leetcode.com/problems/employees-earning-more-than-their-managers/solutions/7703701/employees-earning-more-than-their-manage-v0tw/)|
+|102|Duplicate Emails|Easy|[Solution](https://leetcode.com/problems/duplicate-emails/solutions/7703711/duplicate-emails-by-rafa_f-oe0a/)|
+|103|Customers Who Never Order|Easy|[Solution](https://leetcode.com/problems/customers-who-never-order/solutions/7703740/customers-who-never-order-left-anti-join-1e93/)|
